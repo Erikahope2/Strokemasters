@@ -220,7 +220,7 @@ function resetCalculator() {
 	
 <div style="margin-bottom: 25px;"></div>
  
-<body style="background-color:#480001;">
+<body style="background-color:#ff3b5b;">
   <h1>Menu Calculator</h1>
   
   <h2>Menu Items</h2>

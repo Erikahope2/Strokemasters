@@ -220,7 +220,8 @@ function resetCalculator() {
 	
 <div style="margin-bottom: 25px;"></div>
  
-<body style="background-color:#ff3b5b;">
+<body style="background-color:
+#999999;">
   <h1>Menu Calculator</h1>
   
   <h2>Menu Items</h2>
@@ -372,7 +373,7 @@ function resetCalculator() {
 
    <div>
     <input type="checkbox" id="Davechoice" value="1200$">
-    <label for="Davechoice">Advanced Repair Kit(Free for Leo)- $</label>1200
+    <label for="Davechoice">Advanced Repair Kit- $</label>1200
     <input type="number" value="1" min="1">
   </div>
 

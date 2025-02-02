@@ -233,14 +233,14 @@ function resetCalculator() {
   <div style="margin-bottom: 10px;"></div>
   
   <div>
-    <input type="checkbox" id="uwueats" value="1000$">
-    <label for="Velmachoice">Engine Tier 1- $</label>1000
+    <input type="checkbox" id="uwueats" value="2500$">
+    <label for="Velmachoice">Engine Tier 1- $</label>2500
     <input type="number" value="1" min="1">
   </div>
   
   <div>
-    <input type="checkbox" id="Davechoice" value="3000$">
-    <label for="Davechoice">Engine Tier 2- $</label>3000
+    <input type="checkbox" id="Davechoice" value="5000$">
+    <label for="Davechoice">Engine Tier 2- $</label>5000
     <input type="number" value="1" min="1">
   </div>
   
@@ -255,20 +255,20 @@ function resetCalculator() {
   <div style="margin-bottom: 10px;"></div>
   
  <div>
-    <input type="checkbox" id="Davechoice" value="1000$">
-    <label for="Davechoice">Suspension Tier 1- $</label>1000
+    <input type="checkbox" id="Davechoice" value="4000$">
+    <label for="Davechoice">Suspension Tier 1- $</label>4000
     <input type="number" value="1" min="1">
   </div>
 
   <div>
-    <input type="checkbox" id="Davechoice" value="3000$">
-    <label for="Davechoice">Suspension Tier 2- $</label>3000
+    <input type="checkbox" id="Davechoice" value="4000$">
+    <label for="Davechoice">Suspension Tier 2- $</label>4000
     <input type="number" value="1" min="1">
   </div>
 
   <div>
-    <input type="checkbox" id="Davechoice" value="10000$">
-    <label for="Davechoice">Suspension Tier 3- $</label>10000
+    <input type="checkbox" id="Davechoice" value="4000$">
+    <label for="Davechoice">Suspension Tier 3- $</label>4000
     <input type="number" value="1" min="1">
   </div>
   
@@ -278,14 +278,14 @@ function resetCalculator() {
   <div style="margin-bottom: 10px;"></div>
   
   <div>
-    <input type="checkbox" id="uwueats" value="1000$">
-    <label for="Velmachoice">Transmission Tier 1- $</label>1000
+    <input type="checkbox" id="uwueats" value="2500$">
+    <label for="Velmachoice">Transmission Tier 1- $</label>2500
     <input type="number" value="1" min="1">
   </div>
   
   <div>
-    <input type="checkbox" id="Davechoice" value="4000$">
-    <label for="Davechoice">Transmission Tier 2- $</label>4000
+    <input type="checkbox" id="Davechoice" value="5000$">
+    <label for="Davechoice">Transmission Tier 2- $</label>5000
     <input type="number" value="1" min="1">
   </div>
   
@@ -300,14 +300,14 @@ function resetCalculator() {
 <div style="margin-bottom: 10px;"></div>
   
   <div>
-    <input type="checkbox" id="uwueats" value="1000$">
-    <label for="Velmachoice">Brakes Tier 1- $</label>1000
+    <input type="checkbox" id="uwueats" value="2500$">
+    <label for="Velmachoice">Brakes Tier 1- $</label>2500
     <input type="number" value="1" min="1">
   </div>
 
    <div>
-    <input type="checkbox" id="Davechoice" value="4000$">
-    <label for="Davechoice">Brakes Tier 2- $</label>4000
+    <input type="checkbox" id="Davechoice" value="5000$">
+    <label for="Davechoice">Brakes Tier 2- $</label>5000
     <input type="number" value="1" min="1">
   </div>
 
@@ -382,18 +382,7 @@ function resetCalculator() {
     <label for="Davechoice">Cleaning Kit- $</label>1500
     <input type="number" value="1" min="1">
   </div>
-  
-   <div>
-    <input type="checkbox" id="Davechoice" value="25000$">
-    <label for="Davechoice">Harness- $</label>25000
-    <input type="number" value="1" min="1">
-  </div>
 
-   <div>
-    <input type="checkbox" id="Davechoice" value="15000$">
-    <label for="Davechoice">Nos- $</label>15000
-    <input type="number" value="1" min="1">
-  </div>
     
   
 

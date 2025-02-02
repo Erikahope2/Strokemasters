@@ -239,8 +239,8 @@ function resetCalculator() {
   </div>
   
   <div>
-    <input type="checkbox" id="Davechoice" value="5000$">
-    <label for="Davechoice">Engine Tier 2- $</label>5000
+    <input type="checkbox" id="Davechoice" value="5500$">
+    <label for="Davechoice">Engine Tier 2- $</label>5500
     <input type="number" value="1" min="1">
   </div>
   
@@ -284,8 +284,8 @@ function resetCalculator() {
   </div>
   
   <div>
-    <input type="checkbox" id="Davechoice" value="5000$">
-    <label for="Davechoice">Transmission Tier 2- $</label>5000
+    <input type="checkbox" id="Davechoice" value="5500$">
+    <label for="Davechoice">Transmission Tier 2- $</label>5500
     <input type="number" value="1" min="1">
   </div>
   
@@ -306,8 +306,8 @@ function resetCalculator() {
   </div>
 
    <div>
-    <input type="checkbox" id="Davechoice" value="5000$">
-    <label for="Davechoice">Brakes Tier 2- $</label>5000
+    <input type="checkbox" id="Davechoice" value="5500$">
+    <label for="Davechoice">Brakes Tier 2- $</label>5500
     <input type="number" value="1" min="1">
   </div>
 
